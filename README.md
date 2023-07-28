@@ -1,13 +1,13 @@
 # Road-Accident-Analysis-Dashboard
 I have done the analysis of road accident dashboard created using power BI
 
-Road Accident dashboard created using Power BI! 
+Road Accident dashboard created using Power BI
 
 - In this project offers a deep understanding of various aspects related to road accidents, While creating the dashboard📊 i performed data cleaning and transformations in Power Query.📝
 
 - I used Time intelligence function / Calendar Date Table, then i calculate YTD and YoY Casualties using DAX📈. After that i created calulated columns and measure in the report,📋 then imported images and create a dashboard using various charts,tables to analyze & visualize the data🧾
 
-Insights : 
+Insights :-
 
 - The number of Casualties in 2022 decreased by 11.9%, as compared to 2021.
 - The number of Accidents in 2022 decreased by 11.7% as compared to 2021.
