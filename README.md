@@ -1,9 +1,9 @@
-# Road-Accident-Analysis-Dashboard
+# Road-Accident-Analysis Dashboard
 I have done the analysis of road accident dashboard created using power BI
 
 Road Accident dashboard created using Power BI
 
-- In this project offers a deep understanding of various aspects related to road accidents, While creating the dashboard📊 i performed data cleaning and transformations in Power Query.📝
+- This project offers a deep understanding of various aspects related to road accidents, While creating the dashboard📊 i performed data cleaning and transformations in Power Query.📝
 
 - I used Time intelligence function / Calendar Date Table, then i calculate YTD and YoY Casualties using DAX📈. After that i created calulated columns and measure in the report,📋 then imported images and create a dashboard using various charts,tables to analyze & visualize the data🧾
 
