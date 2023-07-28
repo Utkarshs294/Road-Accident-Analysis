@@ -7,6 +7,16 @@ Road Accident dashboard created using Power BI
 
 - I used Time intelligence function / Calendar Date Table, then i calculate YTD and YoY Casualties using DAX📈. After that i created calulated columns and measure in the report,📋 then imported images and create a dashboard using various charts,tables to analyze & visualize the data🧾
 
+Dashboard Contain :-
+
+- Title
+- Card
+- Slicer
+- KPI
+- Donut chart
+- Line chart
+- Stacked column chart
+
 Insights :-
 
 - The number of Casualties in 2022 decreased by 11.9%, as compared to 2021.
